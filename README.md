@@ -1,4 +1,4 @@
-# Little-IDS-101 "KURO" ~ My kitten
+# Little-IDS-101 "KURO/KIMI" ~ My new kittens (May-26)
 
 ### Lightweight AI-Assisted Behavioral IDS for Apache
 
