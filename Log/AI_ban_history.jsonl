@@ -1,0 +1,15 @@
+{"timestamp": 1779117263.076714, "ip": "108.136.165.222", "service": "Apache", "reason": "AUTO_BAN"}
+{"timestamp": 1779117270.5660496, "ip": "108.136.165.222", "service": "Apache", "reason": "AUTO_BAN"}
+{"timestamp": 1779117275.569399, "ip": "108.136.165.222", "service": "Apache", "reason": "AUTO_BAN"}
+{"timestamp": 1779117284.3615358, "ip": "108.136.165.222", "service": "Apache", "reason": "AUTO_BAN"}
+{"timestamp": 1779117288.938345, "ip": "108.136.165.222", "service": "Apache", "reason": "AUTO_BAN"}
+{"timestamp": 1779117292.743097, "ip": "108.136.165.222", "service": "Apache", "reason": "AUTO_BAN"}
+{"timestamp": 1779209697.61233, "ip": "52.184.99.50", "service": "Apache", "reason": "AUTO_BAN"}
+{"timestamp": 1779252824.4834864, "ip": "208.84.100.130", "service": "Apache", "reason": "AUTO_BAN"}
+{"timestamp": 1779252828.5320861, "ip": "208.84.100.130", "service": "Apache", "reason": "AUTO_BAN"}
+{"timestamp": 1779368816.7326624, "ip": "20.205.100.75", "service": "Apache", "reason": "AUTO_BAN"}
+{"timestamp": 1779375350.2669506, "ip": "142.248.80.45", "service": "Apache", "reason": "AUTO_BAN"}
+{"timestamp": 1779375354.088809, "ip": "142.248.80.45", "service": "Apache", "reason": "AUTO_BAN"}
+{"timestamp": 1779414765.83673, "ip": "20.222.17.182", "service": "Apache", "reason": "AUTO_BAN"}
+{"timestamp": 1779454710.7080262, "ip": "20.92.241.130", "service": "Apache", "reason": "AUTO_BAN"}
+{"timestamp": 1779613400.2280555, "ip": "8.222.225.103", "service": "Apache", "reason": "AUTO_BAN"}
