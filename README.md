@@ -1,8 +1,9 @@
-# Little-IDS-101 "KURO/KIMI" ~ My new kittens (May-26)
+# Little-IDS-101 
+"KURO/KIMI" ~ My new kittens (May-26)
 
 ### Lightweight AI-Assisted Behavioral IDS for Apache
 
-> Experimental behavior-based intrusion detection daemon for Apache HTTP servers using temporal correlation, subnet swarm analysis, rule heuristics, and local LLM-assisted classification.
+Experimental behavior-based intrusion detection daemon for Apache HTTP servers using temporal correlation, subnet swarm analysis, rule heuristics, and local LLM-assisted classification.
 
 ---
 
